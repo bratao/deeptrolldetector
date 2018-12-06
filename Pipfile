@@ -1,0 +1,39 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+ipython = "*"
+ipywidgets = "*"
+jupyter = "*"
+jupyter-core = "*"
+nbformat = "*"
+notebook = "*"
+numpy = "==1.14.4"
+requests = "==2.19.1"
+scipy = "==1.1.0"
+ipython_genutils = "*"
+jupyter_client = "*"
+jupyter_console = "*"
+Keras = "*"
+Keras-Applications = "*"
+Keras-Preprocessing = "*"
+Markdown = "*"
+MarkupSafe = "*"
+Pygments = "==2.2.0"
+PyYAML = "==3.12"
+Werkzeug = "==0.14.1"
+pydub = "*"
+matplotlib = "*"
+apiclient = "*"
+httplib2 = "*"
+google-api-python-client = "*"
+oauth2client = "*"
+tensorflow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
