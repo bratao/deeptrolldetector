@@ -22,9 +22,8 @@ Keras-Applications = "*"
 Keras-Preprocessing = "*"
 Markdown = "*"
 MarkupSafe = "*"
-Pygments = "==2.2.0"
-PyYAML = "==3.12"
-Werkzeug = "==0.14.1"
+Pygments = "*"
+PyYAML = "*"
 pydub = "*"
 matplotlib = "*"
 apiclient = "*"
@@ -36,4 +35,4 @@ tensorflow = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
